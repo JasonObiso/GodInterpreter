@@ -42,6 +42,7 @@
             this.CodeText.Name = "CodeText";
             this.CodeText.Size = new System.Drawing.Size(776, 394);
             this.CodeText.TabIndex = 0;
+            this.CodeText.Text = "BEGIN CODE";
             // 
             // RunButton
             // 

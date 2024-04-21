@@ -46,6 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cypher\Assembler.cs" />
+    <Compile Include="Cypher\Grammar.cs" />
+    <Compile Include="Cypher\Interpreter.cs" />
+    <Compile Include="Cypher\Lexer.cs" />
+    <Compile Include="Cypher\Parser.cs" />
+    <Compile Include="Cypher\Semantic.cs" />
+    <Compile Include="Cypher\Variables.cs" />
+    <Compile Include="Cypher\Token.cs" />
+    <Compile Include="Cypher\Type.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
